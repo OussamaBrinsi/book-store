@@ -1,0 +1,31 @@
+# Node
+node_modules/
+.env
+.DS_Store
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build
+/dist/
+/build/
+/.next/
+/.vercel/
+
+# Vite
+/.vite/
+
+# VS Code
+.vscode/
+
+# OS
+Thumbs.db
+Desktop.ini
+
+# Others
+*.sqlite
+*.sqlite3
+*.db
+*.bak
+*.tmp
